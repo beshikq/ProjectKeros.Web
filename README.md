@@ -1,1 +1,1 @@
-ASP .NET Core (MVC+Web API): http://projectkerosweb.azurewebsites.net/
+ASP .NET Core MVC + Web API: http://projectkerosweb.azurewebsites.net/
